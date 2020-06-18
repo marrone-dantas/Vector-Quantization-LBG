@@ -1,5 +1,5 @@
 # Vector-Quantization-LBG
-Python Implementation of Vector Quantization with Linde–Buzo–Gray algorithm proposed by Y. Linde, A. Buzo and R. Gray in the paper "An Algorithm for Vector Quantizer Design"[[ref](https://ieeexplore.ieee.org/document/1094577/)].
+Python Implementation of Vector Quantization with Linde–Buzo–Gray algorithm proposed by Y. Linde, A. Buzo and R. Gray in the paper "An Algorithm for Vector Quantizer Design"[[ref](https://ieeexplore.ieee.org/document/1094577/)]. This repository is a relocation from an [[old](https://github.com/marronedantas/Vector-Quantization---LBG)] repository mine from an account that, unfortunately, I lost access. 
 # Running
 Just import the module and run, enjoy
 # Example
